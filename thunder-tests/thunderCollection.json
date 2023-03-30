@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "aadf0c53-50f6-4ea7-915f-c12edf28e845",
+    "colName": "user-photo-api",
+    "created": "2023-03-30T03:18:57.493Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "a9412eb3-ec47-4f88-ba02-35eae6b562c1",
+        "name": "users",
+        "containerId": "",
+        "created": "2023-03-30T03:53:25.775Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "9a94bd0c-6277-4c2f-ac1a-537fc5083ed5",
+        "name": "photos",
+        "containerId": "",
+        "created": "2023-03-30T08:27:53.730Z",
+        "sortNum": 20000
+      }
+    ]
+  }
+]

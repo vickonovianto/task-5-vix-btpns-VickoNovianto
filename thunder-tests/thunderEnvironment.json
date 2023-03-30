@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "68365ded-cb1f-4490-8895-551a46d6b9f0",
+    "name": "user-photo-api",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2023-03-30T03:19:55.749Z",
+    "modified": "2023-03-30T03:19:55.749Z",
+    "data": [],
+    "envFile": "..\\.env"
+  },
+  {
+    "_id": "d3ac33b0-67ee-4f13-809e-a82dc39ddd83",
+    "name": "(Local Env)",
+    "default": false,
+    "global": true,
+    "local": true,
+    "sortNum": -1,
+    "created": "2023-03-30T03:59:50.280Z",
+    "modified": "2023-03-30T03:59:50.280Z",
+    "data": []
+  }
+]
